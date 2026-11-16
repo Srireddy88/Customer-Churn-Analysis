@@ -136,7 +136,10 @@ Additional findings:
 - Average monthly charges for retained customers: 61.27
 - Overall churn rate: 26.54%
 
-*Note: These are descriptive findings from the cleaned dataset. They indicate associations, not necessarily causal relationships.*
+*Note: These are descriptive findings from the cleaned dataset.*
+<img width="1167" height="677" alt="Screenshot 2026-11-16 232325" src="https://github.com/user-attachments/assets/cda8b8ff-7d58-4a9c-a390-86f363c77bdb" />
+
+<img width="1161" height="647" alt="Screenshot 2026-11-16 232341" src="https://github.com/user-attachments/assets/a36507e9-9940-469a-ab4a-9c0d1241ccfb" />
 
 ## 💡 Business Recommendations
 
